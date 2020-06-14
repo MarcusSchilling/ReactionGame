@@ -1,0 +1,3 @@
+class DeviceNotFoundException implements Exception {
+
+}
